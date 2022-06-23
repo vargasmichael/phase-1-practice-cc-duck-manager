@@ -1,8 +1,8 @@
 # Phase 1 Practice Code Challenge - Duck Manager
 
-## Getting Started
-
 ![Ducks and Ducks and Ducks](assets/example.png)
+
+## Getting Started
 
 Begin by opening the HTML with your browser of choice and running `json-server --watch db.json`.
 
