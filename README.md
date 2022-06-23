@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+![Ducks and Ducks and Ducks](assets/example.png)
+
 Begin by opening the HTML with your browser of choice and running `json-server --watch db.json`.
 
 For this challenge you'll be using the endpoint `http://localhost:3000/ducks`
