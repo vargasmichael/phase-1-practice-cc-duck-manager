@@ -10,7 +10,7 @@ For this challenge you'll be using the endpoint `http://localhost:3000/ducks`
 
 ## Deliverable One
 
-When the page loads, fetch the ducks and display each duck image in the `#duck-nav`.
+When the page loads, fetch the ducks and display each duck image in the `#duck-nav`. You may need to do something to make sure your `script` tag is working in the HTML first...
 
 ## Deliverable Two
 
